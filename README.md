@@ -1,0 +1,1 @@
+Car dealership object for inquiries about rental car avaibility by car type with rental price
